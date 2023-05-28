@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ivahaev/amigo/uuid"
+	"github.com/dbehnke/amigo/uuid"
 )
 
 var (

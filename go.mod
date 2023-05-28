@@ -1,3 +1,3 @@
-module github.com/ivahaev/amigo
+module github.com/dbehnke/amigo
 
 go 1.13
